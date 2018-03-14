@@ -1,12 +1,12 @@
 # Site settings
-title: Julie の BLog
-email: suyan0830@gmail.com
+title: Zoey の BLog
+email: 825299623@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  Zoey の BLog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+#url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Zoeyxiao
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,24 +14,21 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+github: zoeyxiao
+
 
 # avatar and Favicon
 avatar: http://img.sj33.cn/uploads/allimg/200808/20080801233622111.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
-disqus:
-  shortname: suyan-zh
+#disqus:
+  #shortname: suyan-zh
 
 # google analytics config
-ga:
-  id: UA-54767140-1
-  url: yansu.org
+#ga:
+  #id: UA-54767140-1
+  #url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
