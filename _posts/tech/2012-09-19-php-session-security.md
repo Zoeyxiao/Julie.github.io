@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PHP Session 原理及安全性提升
-category: 技术
-tags: PHP
-description: PHP操作Session的原理及提升安全性时的一个问题
+title: 1.Secure Multiparty Computations on Bitcoin
+category: Paper小结
+tags: Bitcoin
+description: 区块链在多方安全计算上的应用
 ---
 
 ### Session和Cookie基本介绍
