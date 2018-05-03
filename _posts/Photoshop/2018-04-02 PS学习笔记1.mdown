@@ -1,0 +1,21 @@
+---
+layout: post
+title: Secure Multiparty Computations on Bitcoin
+category: 工具
+tags:
+  - PS
+description: Photoshop CS6 学习笔记 （一）
+style: summer
+---
+
+### 入门小知识：
++ 像素：计算数码影像的一种单位。1个像素就是最小的一个图形单元，在屏幕上显示的通常就是单个的染色点。
++ 分辨率：分辨率的单位简称Ppi，也就是Pixel Per Inch。 72Ppi即表示1英寸由72个像素点组成。
++ 矢量图没有像素的概念，它是面向对象的图像或绘图图像。在数学上定义为一系列由线连接的点。
++ 常用分辨率设置：
+	+ 洗印照片，300或以上
+	+ 杂志、名片等印刷物 300
+	+ 海报高清写真 96-200
+	+ 网络图片，网页界面 72
+	+ 大型喷绘 25-50
++ 
